@@ -34,7 +34,7 @@ Ele pede **login**, mostra um **menu interativo** e envia comandos para a impres
 | Tecnologia | Para que serve |
 |---|---|
 | ☕ **Java** | Linguagem do programa |
-| 🌉 **JNA** ![jna](https://img.shields.io/badge/jna--5.15.0.jar-FF9E8A?style=flat-square) | "Ponte" entre o Java e a DLL |
+| 🌉 **JNA** ![jna](https://img.shields.io/badge/jna--5.15.0.jar-f09d9e?style=flat-square) | "Ponte" entre o Java e a DLL |
 | ⚙️ **E1_Impressora01.dll** | Biblioteca da Elgin com os comandos da impressora |
 | 💻 **VS Code** | Ambiente de desenvolvimento |
 
@@ -43,10 +43,10 @@ Ele pede **login**, mostra um **menu interativo** e envia comandos para a impres
 ## Como Executar
 
 1. 📥 Baixe o projeto e abra a pasta no **VS Code** (ou IntelliJ).
-2. 📚 Adicione o ![jna](https://img.shields.io/badge/jna--5.15.0.jar-FF9E8A?style=flat-square) (pasta ![libs](https://img.shields.io/badge/libs%20Java-FF9E8A?style=flat-square)) em **Referenced Libraries**.
-3. 📌 Deixe a ![dll](https://img.shields.io/badge/E1__Impressora01.dll-FF9E8A?style=flat-square) na **mesma pasta** do ![main](https://img.shields.io/badge/Main.java-FF9E8A?style=flat-square).
+2. 📚 Adicione o ![jna](https://img.shields.io/badge/jna--5.15.0.jar-f09d9e?style=flat-square) (pasta ![libs](https://img.shields.io/badge/libs%20Java-f09d9e?style=flat-square)) em **Referenced Libraries**.
+3. 📌 Deixe a ![dll](https://img.shields.io/badge/E1__Impressora01.dll-f09d9e?style=flat-square) na **mesma pasta** do ![main](https://img.shields.io/badge/Main.java-f09d9e?style=flat-square).
 4. 🔌 Ligue a impressora e conecte o cabo USB.
-5. ▶️ Execute o ![main](https://img.shields.io/badge/Main.java-FF9E8A?style=flat-square).
+5. ▶️ Execute o ![main](https://img.shields.io/badge/Main.java-f09d9e?style=flat-square).
 
 ---
 
@@ -54,7 +54,7 @@ Ele pede **login**, mostra um **menu interativo** e envia comandos para a impres
 
 | Usuário | Senha |
 |---|---|
-| ![admin](https://img.shields.io/badge/admin-FF9E8A?style=flat-square) | ![1234](https://img.shields.io/badge/1234-FF9E8A?style=flat-square) |
+| ![admin](https://img.shields.io/badge/admin-f09d9e?style=flat-square) | ![1234](https://img.shields.io/badge/1234-f09d9e?style=flat-square) |
 
 ---
 
@@ -77,10 +77,10 @@ Escolha a **opção 1** e use:
 
 | Campo | Valor |
 |---|---|
-| Tipo | ![1](https://img.shields.io/badge/1-FF9E8A?style=flat-square) |
-| Modelo | ![i9](https://img.shields.io/badge/i9-FF9E8A?style=flat-square) |
-| Conexão | ![USB](https://img.shields.io/badge/USB-FF9E8A?style=flat-square) |
-| Parâmetro | ![0](https://img.shields.io/badge/0-FF9E8A?style=flat-square) |
+| Tipo | ![1](https://img.shields.io/badge/1-f09d9e?style=flat-square) |
+| Modelo | ![i9](https://img.shields.io/badge/i9-f09d9e?style=flat-square) |
+| Conexão | ![USB](https://img.shields.io/badge/USB-f09d9e?style=flat-square) |
+| Parâmetro | ![0](https://img.shields.io/badge/0-f09d9e?style=flat-square) |
 
 Depois abra a conexão (**opção 2**) e use as outras opções.
 
